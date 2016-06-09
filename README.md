@@ -5,7 +5,7 @@ This repository contains JSON text files which encapsulate complete CellBlender 
 Models are either grouped into their own subdirectory or added to the "Assorted" subdirectory.
 These are the current model categories:
 
-* **[Assorted](Assorted)**
+* **[Assorted Models](Assorted)**
 * **[Lotka Volterra Models](Lotka_Volterra)**
 
 To run these models:
