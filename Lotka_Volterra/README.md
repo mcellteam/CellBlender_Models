@@ -3,5 +3,6 @@
 
 Current Models:
 
-* Lotka_Volterra_Torus_Diff_Lim.json - Diffusion Limited Case
-* Lotka_Volterra_Torus_Phys_Lim.json - Physiologically Limited Case
+* **[Lotka_Volterra_Torus_Diff_Lim.json](Lotka_Volterra_Torus_Diff_Lim.json)**  - Diffusion Limited Case
+* **[Lotka_Volterra_Torus_Phys_Lim.json](Lotka_Volterra_Torus_Phys_Lim.json)**  - Physiologically Limited Case
+
