@@ -2,7 +2,7 @@
 ## Repository for CellBlender Models and Examples
 
 This repository contains JSON text files which encapsulate complete CellBlender models.
-Models are either grouped into their own subdirectory or added to the "Assorted" subdirectory.
+Models are either grouped into their own subdirectory or added to the "Assorted Models" subdirectory.
 These are the current model categories:
 
 * **[Assorted Models](Assorted)**
