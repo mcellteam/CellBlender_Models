@@ -6,6 +6,7 @@ Models should be either grouped into their own subdirectory or added to the "Ass
 These are the current model categories:
 
 * **[Assorted](Assorted)**
+* **[Fick's Law Models](Ficks_Law)**
 * **[Lotka Volterra Models](Lotka_Volterra)**
 
 To run these models:
