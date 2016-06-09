@@ -5,9 +5,9 @@ Current Models:
 
 * **[Lotka_Volterra_Torus_Diff_Lim.json](Lotka_Volterra_Torus_Diff_Lim.json)**  - Diffusion Limited Case
 
-![Cell1 in CellBlender/MCell](cellblender/Cell1_Test1.gif?raw=true "Cell1 in CellBlender/MCell")
+![Lotka-Volterra Diffusion Limited](lv_diff.png?raw=true "Lotka-Volterra Diffusion Limited")
 
 
-* **[Lotka_Volterra_Torus_Phys_Lim.json](Lotka_Volterra_Torus_Phys_Lim.json)**  - Physiologically Limited Case
+* **[Lotka_Volterra_Torus_Phys_Lim.json](Lotka_Volterra_Torus_Phys_Lim.json)**  - Physiologic Case
 
-![Cell1 in CellBlender/MCell](cellblender/Cell1_Test1.gif?raw=true "Cell1 in CellBlender/MCell")
+![Lotka-Volterra Diffusion Limited](lv_phys.png?raw=true "Lotka-Volterra Physiologic")
