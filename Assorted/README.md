@@ -14,3 +14,8 @@ Current Models:
 
 ![Timed Releases](Timed_Releases.gif?raw=true "Timed Releases")
 
+
+* **[Vertex_Release.json](Vertex_Release.json)**  - Demonstration of Object Vertex Release.
+
+![Vertex Release](Vertex_Release.gif?raw=true "Vertex Release")
+
