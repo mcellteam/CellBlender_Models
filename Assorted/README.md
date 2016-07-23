@@ -12,5 +12,5 @@ Current Models:
 
 * **[Timed_Releases.json](Timed_Releases.json)**  - Demonstration of Timed Releases with Scripting.
 
-![Timed Releases](Timed_Releases.png?raw=true "Timed Releases")
+![Timed Releases](Timed_Releases.gif?raw=true "Timed Releases")
 
