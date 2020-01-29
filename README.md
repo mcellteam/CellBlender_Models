@@ -8,6 +8,7 @@ These are the current model categories:
 * **[Assorted Models](Assorted)**
 * **[Fick's Law Models](Ficks_Law)**
 * **[Lotka Volterra Models](Lotka_Volterra)**
+* **[Synaptic Models](Synaptic)**
 
 To run these models:
 
